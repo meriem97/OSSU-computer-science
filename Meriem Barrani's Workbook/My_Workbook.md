@@ -37,7 +37,7 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 Courses | Duration | Effort | Prerequisites | Status | Certificate
 :-- | :--: | :--: | :--: | :--: | :--:
 [Systematic Program Design](coursepages/spd/README.md) | 13 weeks | 8-10 hours/week | none | Ongoing | 
-[Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | 13 weeks | 5-10 hours/week | Not Started |
+[Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | 13 weeks | 5-10 hours/week | Systematic Program Design, High School Math| Not Started |
 [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week | Systematic Program Design ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | Not Started |
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 4-8 hours/week | Programming Languages, Part A | Not Started |
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 4-8 hours/week | Programming Languages, Part B | Not Started |

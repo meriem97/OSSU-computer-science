@@ -18,7 +18,8 @@ Courses | Duration | Effort | Prerequisites | Status | Certificate
 
 All coursework under Core CS is **required**, unless otherwise indicated.
 
-<h4>Core programming</h4> 
+<h4>Core programming</h4>
+
 **Topics covered**:
 `functional programming`
 `design for testing`

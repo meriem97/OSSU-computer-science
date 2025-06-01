@@ -1,5 +1,5 @@
 <h1> Here you can check my advancement through the course!</h1>
-<h4>Intro CS</h4> 
+<h3>Intro CS</h3> 
 
 This course will introduce you to the world of computer science and programming. This course gives you a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
 

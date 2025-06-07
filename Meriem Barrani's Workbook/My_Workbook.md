@@ -11,7 +11,7 @@ This course will introduce you to the world of computer science and programming.
 
 Courses | Duration | Effort | Prerequisites | Status | Certificate
 :-- | :--: | :--: | :--: | :--: | :--:
-[Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 14 weeks | 6-10 hours/week | [high school algebra](https://ossu.dev/precollege-math) | ✅ | <a href = "https://certificates.cs50.io/428a4535-9801-4304-a0ce-559dc8b3739f.png?size=letter">CS50 Python course completion Certificate</a>
+[Introduction to Computer Science and Programming using Python](../coursepages/intro-cs/README.md) | 14 weeks | 6-10 hours/week | [high school algebra](https://ossu.dev/precollege-math) | ✅ | <a href = "https://certificates.cs50.io/428a4535-9801-4304-a0ce-559dc8b3739f.png?size=letter">CS50 Python course completion Certificate</a>
 
 
 <h3>Core CS</h3>

@@ -5,5 +5,6 @@
 
 <p>Write a BSL expression that produces the value of ? for this triangle where the other two sides have lengths 3 and 4.</p>
 ```
+
 (sqrt(+ (sqr 3) (sqr 4)))
 ```

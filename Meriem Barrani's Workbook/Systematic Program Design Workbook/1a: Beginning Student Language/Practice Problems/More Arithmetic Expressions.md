@@ -1,6 +1,6 @@
 <details>
 <Summary style = "Bold"> BSL P1 - More Arithmetic Expressions</Summary>
-
+<br>
 
 **Problem:**
 
@@ -9,7 +9,8 @@ The first should take advantage of the fact that * can accept more than 2 argume
 The second should build up the result by first multiplying 3 times 5 and then multiply the result of that by 7. 
 
 **Solution:**
-
+<br>
 1- `(* 3 5 7)`
+<br>
 2- `(* (* 3 5) 7)`
 </details>

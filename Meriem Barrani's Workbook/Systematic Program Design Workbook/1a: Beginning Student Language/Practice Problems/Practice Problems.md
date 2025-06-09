@@ -53,6 +53,7 @@ functions to make a more interesting or more attractive image.
 
 ![image](https://github.com/user-attachments/assets/373a05ec-74ab-4508-b485-bd5ffe3b9a64)
 
+</details>
 
 <details>
 <Summary> <h2>BSL P5 - Compare Images</h2></Summary>

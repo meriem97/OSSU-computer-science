@@ -81,7 +81,7 @@ functions to make a more interesting or more attractive image.
 
 <h4> SOLUTION </h4>
 <br>
-
+</details>
 
 </details>
 
